@@ -13,7 +13,8 @@ clean:
 
 ## build - Build the project
 build:
-	go build -o dist/PROJECT_NAME
+	go build package/project.go
+	# go build -o dist/PROJECT_NAME
 
 ## test - Test the project
 test:
