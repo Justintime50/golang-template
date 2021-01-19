@@ -4,7 +4,7 @@
 
 A Golang project template to save you time and energy.
 
-[![Build](https://github.com/Justintime50/golang-template/workflows/build/badge.svg)](https://github.com/Justintime50/golang-template/actions)
+[![Build Status](https://github.com/Justintime50/golang-template/workflows/build/badge.svg)](https://github.com/Justintime50/golang-template/actions)
 [![Coverage Status](https://coveralls.io/repos/github/Justintime50/golang-template/badge.svg?branch=main)](https://coveralls.io/github/Justintime50/golang-template?branch=main)
 [![Licence](https://img.shields.io/github/license/justintime50/golang-template)](LICENSE)
 
