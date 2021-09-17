@@ -9,7 +9,7 @@ A one-liner description of your project goes here.
 [![PyPi](https://img.shields.io/pypi/v/PROJECT_NAME)](https://pypi.org/project/PROJECT_NAME)
 [![Licence](https://img.shields.io/github/license/USERNAME/PROJECT_NAME)](LICENSE)
 
-<img src="assets/showcase.png" alt="Showcase">
+<img src="https://raw.githubusercontent.com/justintime50/assets/main/src/golang-template/showcase.jpg" alt="Showcase">
 
 </div>
 

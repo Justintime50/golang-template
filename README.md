@@ -8,7 +8,7 @@ A Golang project template to save you time and energy.
 [![Coverage Status](https://coveralls.io/repos/github/Justintime50/golang-template/badge.svg?branch=main)](https://coveralls.io/github/Justintime50/golang-template?branch=main)
 [![Licence](https://img.shields.io/github/license/justintime50/golang-template)](LICENSE)
 
-<img src="assets/showcase.jpg" alt="Showcase">
+<img src="https://raw.githubusercontent.com/justintime50/assets/main/src/golang-template/showcase.jpg" alt="Showcase">
 
 </div>
 
@@ -18,7 +18,7 @@ Golang projects take a long time to setup with all the various files and keeping
 
 Click the `Use this template` button at the top of this project's GitHub page, it looks like this:
 
-<img src="assets/use_template_button.png" alt="Use Template Button">
+<img src="https://raw.githubusercontent.com/justintime50/assets/main/src/templates/use_template_button.png" alt="Showcase">
 
 ## Usage
 
