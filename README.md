@@ -8,7 +8,7 @@ A Golang project template to save you time and energy.
 [![Coverage Status](https://coveralls.io/repos/github/Justintime50/golang-template/badge.svg?branch=main)](https://coveralls.io/github/Justintime50/golang-template?branch=main)
 [![Licence](https://img.shields.io/github/license/justintime50/golang-template)](LICENSE)
 
-<img src="https://raw.githubusercontent.com/justintime50/assets/main/src/golang-template/showcase.jpg" alt="Showcase">
+<img src="https://raw.githubusercontent.com/justintime50/assets/main/src/golang-template/showcase.png" alt="Showcase">
 
 </div>
 
