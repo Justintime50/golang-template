@@ -7,5 +7,6 @@ import (
 func myProject(myString string) string {
 	newString := "hello " + myString
 	fmt.Println(newString)
+
 	return newString
 }

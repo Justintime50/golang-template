@@ -12,4 +12,4 @@ brews:
     description: "DESCRIPTION"
     commit_author:
       name: USERNAME
-      email: justin@example.com
+      email: USERNAME@example.com

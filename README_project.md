@@ -30,7 +30,7 @@ make install
 Usage instructions go here.
 
 ```bash
-go run project.go
+go run PROJECT_NAME.go
 ```
 
 ## Development

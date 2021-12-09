@@ -29,14 +29,13 @@ Click the `Use this template` button at the top of this project's GitHub page, i
 
 **File configuration**
 
+1. Change the name of the `package` folder to match your project
 1. Configure the `go.mod` file
 1. Configure the `Makefile` targets
 1. Update the name in the `LICENSE` file
 1. Configure the `.github/workflows/build.yml` file
 1. Configure the `.goreleaser.yml` file and uncomment the last section of the `.github/workflows/release.yml` file
-1. Update the `CHANGELOG`
-1. Replace the showcase image in `/assets` and remove all other unneeded assets
-1. Change the data in `.github/FUNDING.yml`
+1. Update the `CHANGELOG.md`
 1. Rename other files/folders as needed and configure their content
 1. Add a `HOMEBREW_TAP_TOKEN` secret to your repo with a value of a GitHub token that has `repo` access to your homebrew tap
 1. Delete this `README` and rename `README_project.md` to `README.md`
