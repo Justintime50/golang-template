@@ -25,7 +25,7 @@ Click the `Use this template` button at the top of this project's GitHub page, i
 **Easy text replacements**
 
 1. Replace all occurances of `USERNAME`
-1. Replace all occurances of `PROJECT_NAME`
+1. Replace all occurances of `GO_PROJECT_NAME`
 
 **File configuration**
 

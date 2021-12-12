@@ -8,7 +8,7 @@ brews:
       owner: USERNAME
       name: homebrew-formulas
     folder: formula
-    homepage: "https://github.com/USERNAME/PROJECT_NAME"
+    homepage: "https://github.com/USERNAME/GO_PROJECT_NAME"
     description: "DESCRIPTION"
     commit_author:
       name: USERNAME
